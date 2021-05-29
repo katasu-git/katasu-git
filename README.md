@@ -1,11 +1,10 @@
 ### Welcome Katasu's Rep 👋
 
-<span>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=katasu-git&count_private=true&show_icons=true&theme=tokyonight" />
-</span>
-<span>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katasu-git&layout=compact&theme=tokyonight" />
-</span>
+<!-- リポジトリステータス -->
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=katasu-git&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/katasu-git/)
+
+<!-- ソースコード統計 -->
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katasu-git&layout=compact&theme=tokyonight)](https://github.com/katasu-git/)
 
 
 <!--
