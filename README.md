@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<!-- リポジトリステータス -->
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=katasu-git&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/katasu-git/)
+
+<!-- ソースコード統計 -->
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katasu-git&layout=compact&theme=tokyonight)](https://github.com/katasu-git/)
+
+
 <!--
 **katasu-git/katasu-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
