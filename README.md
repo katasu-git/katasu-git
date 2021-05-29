@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-<!-- リポジトリステータス -->
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=katasu-git&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/katasu-git/)
-
-<!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katasu-git&layout=compact&theme=tokyonight)](https://github.com/katasu-git/)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=katasu-git&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katasu-git" />
+</a>
 
 
 <!--
