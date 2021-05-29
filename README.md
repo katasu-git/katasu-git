@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katasu-git&label=Profile%20views&color=0e75b6&style=flat" alt="katasu-git" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=katasu-git" alt="katasu-git" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter and React**
 
 - 💬 Ask me about **Vue**
@@ -16,5 +14,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=katasu-git&show_icons=true&locale=en&layout=compact" alt="katasu-git" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=katasu-git&show_icons=true&locale=en" alt="katasu-git" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=katasu-git&" alt="katasu-git" /></p>
