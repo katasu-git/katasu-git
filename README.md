@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Katasu</h1>
 <h3 align="center">Frontend developer from Japan</h3>
 
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katasu-git&label=Profile%20views&color=0e75b6&style=flat" alt="katasu-git" /> </p>
 
 - 🌱 I’m currently learning **Flutter and React**
 
 - 💬 Ask me about **Vue**
+
+-->
 
 
 <h3 align="left">Languages and Tools:</h3>
