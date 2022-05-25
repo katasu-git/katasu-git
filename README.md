@@ -1,6 +1,8 @@
-<div style="text-align: center;">
-  🤔👹👺🧑‍💻
-</div>
-<div style="text-align: center;">
-  HERE IS DEAD SPACE.
+<div align="center">
+  <div>
+    🤔👹👺🧑‍💻
+  </div>
+  <div>
+    HERE IS DEAD SPACE
+  </div>
 </div>
