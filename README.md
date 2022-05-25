@@ -3,6 +3,6 @@
     🤔👹👺🧑‍💻
   </div>
   <div>
-    HERE IS DEAD SPACE
+    DEAD SPACE HERE.
   </div>
 </div>
